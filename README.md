@@ -1,31 +1,30 @@
-# travel safe
+# Travel Safe
 
-  ## Description {#description}
-  fjdklfd
+  ## Description
+  Covid Information
 
   ## Table of Contents
 
-  [Description](#description)
-  [Installation Instructions](#installation-instructions)
-  [Usage Information](#usage)
-  [License](#License)
-  [Contribution Guidelines](#contributions)
-  [Test Instructions](#test)
-  [Questions](#contactQuestions)
+  * [Description](#description)
+  * [Installation Instructions](#installation-instructions)
+  * [Usage Information](#usage-information)
+  * [License](#license)
+  * [Contribution Guidelines](#contribution-guidelines)
+  * [Test Instructions](#test-instructions)
+  * [Questions](#contactQuestions)
 
   ## Installation Instructions
-  fjdlkfd
+  Website
 
   ## Usage Information
-  fjdlkfdj
-  
+  Browser
 
   ## Contribution Guidelines
-  jfldj
+  Kyle Reynolds
 
   ## Test Instructions
-  fdjdklf
+  Test it
 
   ## License
-  MIT
+  BSD
 
