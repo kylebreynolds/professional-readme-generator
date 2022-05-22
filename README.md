@@ -4,7 +4,7 @@
   
 
   ## Description
-  An application that generates a professional README using information input by user
+  Application to generate README using input by user
 
   ## Table of Contents
 
@@ -20,13 +20,13 @@
   Download
 
   ## Usage Information
-  On the web
+  To make README files
 
   ## Contribution Guidelines
   Kyle Reynolds
 
   ## Test Instructions
-  Test
+  TEST
 
   ## License
   NOTICE! This application is covered under Apache license.
