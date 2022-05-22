@@ -1,10 +1,10 @@
 # travel safe
 
   ## Description {#description}
-  covid information
+  covid
 
   ## Table of Contents
-    [Description](#description)
+    - [Description](#description)
     [Installation Instructions](#installation-instructions)
     [Usage Information](#usage)
     [License](#license)
@@ -13,17 +13,17 @@
     [Questions](#contactQuestions)
 
   ## Installation Instructions
-  website
+  web
 
   ## Usage Information
-  web Browser
+  browsers
 
   ## Contribution Guidelines
   kyle
 
   ## Test Instructions
-  testing
+  tests
 
   ## License
-  BSD
+  MIT
 
