@@ -33,7 +33,19 @@ const questions = [
         type:'input',
         name:'contributions',
         message:'Who contributed to this application?'
+    },
+    {
+        type:'input',
+        name:'test',
+        message:'How do you test this application?'
+    },
+    {
+        type:'list',
+        name:'license',
+        message:'What type of license are you using?',
+        choices: ['MIT', 'Apache', 'BSD']
     }
+
 ];
 
 
