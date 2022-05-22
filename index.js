@@ -17,7 +17,7 @@ const questions = [
     {
         type:'input',
         name:'description',
-        message:'What is the purpose of your application?'
+        message:'Write a description of your application'
     },
     {
         type:'input',
@@ -44,6 +44,16 @@ const questions = [
         name:'license',
         message:'What type of license are you using?',
         choices: ['MIT', 'Apache', 'BSD']
+    },
+    {
+        type:'input',
+        name:'github',
+        message:'Enter your GitHub username'
+    },
+    {
+        type:'input',
+        name:'email',
+        message:'Enter your email address'
     }
 
 ];

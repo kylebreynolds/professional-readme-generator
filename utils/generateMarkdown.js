@@ -42,6 +42,9 @@ function generateMarkdown(data) {
   ## License
   ${data.license}
 
+  ##Questions
+  GitHub Profile: ${data.github}
+  If you have any additional questions, email me at: <a href='mailto:${data.email}'>${data.email}</a>
 `;
 }
 

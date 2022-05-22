@@ -1,7 +1,7 @@
-# Travel Safe
+# travel safe
 
   ## Description
-  Covid Information
+  covid
 
   ## Table of Contents
 
@@ -14,17 +14,20 @@
   * [Questions](#contactQuestions)
 
   ## Installation Instructions
-  Website
+  web
 
   ## Usage Information
-  Browser
+  browser
 
   ## Contribution Guidelines
-  Kyle Reynolds
+  kyle
 
   ## Test Instructions
-  Test it
+  test
 
   ## License
-  BSD
+  MIT
 
+  ##Questions
+  GitHub Profile: kylebreynolds
+  If you have any additional questions, email me at: <a href='mailto:kbreyn06@gmail.com'>kbreyn06@gmail.com</a>
