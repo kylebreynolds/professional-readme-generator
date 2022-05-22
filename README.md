@@ -34,3 +34,6 @@
   ## Questions
   GitHub Profile: <a href='https://github.com/kylebreynolds'>kylebreynolds</a><br>
   If you have any additional questions, email me at: <a href='mailto:kbreyn06@gmail.com'>kbreyn06@gmail.com</a>
+  
+  ## Walkthrough Video
+  https://drive.google.com/file/d/1VrHBcj_QTGRwWMQSoIbkSD3Sm4krxtWL/view
