@@ -1,7 +1,10 @@
-# travel
+# Professional README Generator
+
+  ![badge](https://img.shields.io/badge/license-Apache-orange)
+  
 
   ## Description
-  dfjdk
+  An application that generates a professional README using information input by user
 
   ## Table of Contents
 
@@ -14,21 +17,20 @@
   * [Questions](#questions)
 
   ## Installation Instructions
-  fdjkfl
+  Download
 
   ## Usage Information
-  dfkjdlf
+  On the web
 
   ## Contribution Guidelines
-  fdf
+  Kyle Reynolds
 
   ## Test Instructions
-  fdf
+  Test
 
   ## License
-  BSD
-  ![badge](https://img.shields.io/badge/license-BSD-orange)
+  NOTICE! This application is covered under Apache license.
 
   ## Questions
   GitHub Profile: <a href='https://github.com/kylebreynolds'>kylebreynolds</a><br>
-  If you have any additional questions, email me at: <a href='mailto:fjdk'>fjdk</a>
+  If you have any additional questions, email me at: <a href='mailto:kbreyn06@gmail.com'>kbreyn06@gmail.com</a>
