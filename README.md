@@ -1,11 +1,11 @@
 # travel safe
 
-  ## Description
-  covid info
+  ## Description {#description}
+  covid information
 
   ## Table of Contents
     [Description](#description)
-    [Installation Instructions](#instructions)
+    [Installation Instructions](#installation-instructions)
     [Usage Information](#usage)
     [License](#license)
     [Contribution Guidelines](#contributions)
@@ -16,7 +16,7 @@
   website
 
   ## Usage Information
-  web browser
+  web Browser
 
   ## Contribution Guidelines
   kyle
@@ -25,5 +25,5 @@
   testing
 
   ## License
-  Apache
+  BSD
 
