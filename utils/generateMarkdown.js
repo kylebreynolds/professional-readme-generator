@@ -42,7 +42,7 @@ function generateMarkdown(data) {
 
   ## License
   ${data.license}
-  ![badge](https://img.shields.io/badge/license-${data.license}-important)
+  ![badge](https://img.shields.io/badge/license-${data.license}-orange)
 
   ## Questions
   GitHub Profile: <a href='https://github.com/${data.github}'>${data.github}</a><br>
