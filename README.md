@@ -1,6 +1,5 @@
 # Professional ReadMe Generator
 
-  ![badge](https://img.shields.io/badge/license-Apache-orange)
   
 
   ## Description
